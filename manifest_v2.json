@@ -41,13 +41,25 @@
     },
     "xmb11": {
       "version": "0.9.0",
-      "file_name": "downloads/时间账单.bin",
-      "versionCode": 2304
+      "file_name": "downloads/时间账单-小米手环11-r66.bin",
+      "versionCode": 2304,
+      "updatelogs": [
+        {
+          "version": "0.9.0",
+          "content": "优化了账单的打开速度。"
+        }
+      ]
     },
     "xmb11nfc": {
       "version": "0.9.0",
-      "file_name": "downloads/时间账单.bin",
-      "versionCode": 2304
+      "file_name": "downloads/时间账单-小米手环11-r66.bin",
+      "versionCode": 2304,
+      "updatelogs": [
+        {
+          "version": "0.9.0",
+          "content": "优化了账单的打开速度。"
+        }
+      ]
     }
   },
   "ext": {
