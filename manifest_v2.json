@@ -1,0 +1,54 @@
+{
+  "item": {
+    "id": "979834324999",
+    "restype": "watchface",
+    "name": "时间账单",
+    "description": "手环表盘\n\n计时与结算　进入表盘后自动计时，每过 10 秒打印一条明细。轻点小票结算，不足 10 秒的用时也会计入合计。\n\n撕票与放大　结算后双击小票，撕下并放大。再双击一次可看更细的内容。超出屏幕时，可上下左右滑动，每次移动一段。\n\n翻面扫码　放大后长按小票，翻到背面显示二维码。点二维码翻回正面，再点一下缩回原位。缩回后再点小票，可开始下一张。\n\n夜间暖灯　表盘随手环同步的日出、日落时间切换。没有日出日落数据时，默认 07:00 切到白天、19:00 切到夜间。夜间点出票口上方可开关灯，下次进入夜间会记住上次的选择。\n\n手机小工具\n\n直接计时　打开「时间账单」，轻点小票结算。出票后单击可放大，点「保存到相册」可留存图片。\n\n导入手环账单　点「扫描其他设备」，对准手环小票背面的二维码。也可以点「从相册选图」读取已有的二维码图片。识别后，小工具会收回取景框并打印同一张账单。\n\n切换灯光　轻点顶部时间，可在白天、夜间关灯和夜间开灯之间切换。",
+    "preview": [
+      "media/01-手环暖灯开关.webp",
+      "media/02-手环每10秒送纸.webp",
+      "media/03-手环放大与分段滑动.webp",
+      "media/04-手环长按翻码.webp",
+      "media/05-小工具开灯扫码出票.webp",
+      "media/06-小工具计时结算与放大.webp"
+    ],
+    "icon": "media/download-1.png",
+    "cover": "media/download-3.jpg",
+    "author": [
+      {
+        "name": "914173667",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "使用教程",
+      "url": "https://www.xiaohongshu.com/explore/6b01c3f9000000002b018bf2?xsec_token=ABLtD51ph01YmzR5bxTMpBVgbvv0hrweDOObqisAXNniw=&xsec_source=pc_user",
+      "icon": "book"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.9.0",
+      "file_name": "downloads/时间账单.bin",
+      "versionCode": 2304
+    },
+    "xmb10nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/时间账单.bin",
+      "versionCode": 2304
+    },
+    "xmb11": {
+      "version": "0.9.0",
+      "file_name": "downloads/时间账单.bin",
+      "versionCode": 2304
+    },
+    "xmb11nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/时间账单.bin",
+      "versionCode": 2304
+    }
+  },
+  "ext": {}
+}
