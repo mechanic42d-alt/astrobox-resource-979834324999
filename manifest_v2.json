@@ -50,5 +50,7 @@
       "versionCode": 2304
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
